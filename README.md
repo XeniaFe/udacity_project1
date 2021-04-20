@@ -21,3 +21,5 @@ The three main questions asked were:
 * What are the top 10 most expensive neighbourhoods in dubai to live in?
 * What neighborhoods in Dubai have largest number of propperties on offer?
 * Is there a relationship between apartment price and neighbourhoods? And, if so, is it significant?
+
+All the findings and visuals in relation to these questions can be found in the attached jupyter notebook.
